@@ -51,6 +51,7 @@ syntax:-- # directive=value
 ### Types of Parser Directives:-
 1. Syntax 
 Specifies which Dockerfile frontend (syntax implementation) should be used to interpret the Dockerfile.
+**example**
 {
     # syntax=docker/dockerfile:1
     FROM ubuntu:22.04
